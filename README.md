@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ghetto05
-- 👀 I’m interested in making stuff with C#, especially VR game mods
-- 🌱 I’m currently learning C#, Unity Game Development and some Java
+- 👀 I’m interested in making things with C# and Java
+- 🌱 I’m currently learning C#, Java, a bit of Python, and am dabbling Unity Game Development
 - 💞️ I’m looking to collaborate on Unity stuff
 - 📫 How to reach me:
     - Discord: Ghetto05#3387
