@@ -1,11 +1,32 @@
-- 👋 Hi, I’m Ghetto05
-- 👀 I’m interested in making things with C# and Java
-- 🌱 I’m currently learning C#, Java, a bit of Python, and am dabbling Unity Game Development
-- 💞️ I’m looking to collaborate on Unity stuff
-- 📫 How to reach me:
-    - Discord: Ghetto05#3387
-    - EMail: beckerleon250@gmail.com
-<!---
-Ghetto05/Ghetto05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hey there, I'm Ghetto05
+
+I'm a hobbyist modder mainly working on content for **Blade & Sorcery**.
+
+---
+
+## Mods
+
+I'm mainly known for my Firearms mods for Blade & Sorcery
+My main mod is ["**Ghetto's Firearms**"](https://ghetto05.com/en_US/releases/1)
+You can find more of my work on my [website (ghetto05.com)](https://ghetto05.com)
+
+---
+
+## Tools & Languages I Use
+
+- Unity
+- C# (Rider)
+- Blender & Substance Painter
+- Python (Pycharm)
+
+---
+
+## Contact
+
+Feel free to open an issue if something’s broken or if you have a suggestion. I check GitHub when I’m working on stuff, but I might miss messages sometimes.
+
+If you want to reach out directly, Discord is probably the easiest way:  
+**[ghetto05](https://discordapp.com/users/714263935746048072)**
+
+You can also send me an Email:
+**[contact@ghetto05.com](mailto:contact@ghetto05.com)**
