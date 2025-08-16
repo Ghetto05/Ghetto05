@@ -4,8 +4,8 @@ I'm a hobbyist modder mainly working on content for **Blade & Sorcery**.
 
 ## Mods
 
-I'm mainly known for my Firearms mods for Blade & Sorcery
-My main mod is ["**Ghetto's Firearms**"](https://ghetto05.com/en_US/releases/1)
+I'm mainly known for my Firearms mods for Blade & Sorcery  
+My main mod is ["**Ghetto's Firearms**"](https://ghetto05.com/en_US/releases/1)  
 You can find more of my work on my [website (ghetto05.com)](https://ghetto05.com)
 
 ## Tools & Languages I Use
